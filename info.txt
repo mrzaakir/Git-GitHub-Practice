@@ -7,3 +7,4 @@ To add more commits to your local repository, you can follow these steps:
 4. Repeat steps 1-3 for each set of changes you want to commit.
 5. Once you have made all your commits, you can use the command `git log` to view the commit history and verify that your new commits have been added to the local repository.
 6. If you want to push your commits to a remote repository, use the command `git push origin <branch_name>` to push your committed changes to the remote repository on GitHub.
+7. If you want to create a new branch for your commits, use the command `git branch <branch_name>` to create a new branch and `git checkout <branch_name>` to switch to that branch before making your commits.
