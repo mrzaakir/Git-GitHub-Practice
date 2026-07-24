@@ -3,3 +3,4 @@ long time ago, I made a commit in my local repository. I want to add more commit
 To add more commits to your local repository, you can follow these steps:
 1. Make changes to your files in your local repository using your preferred text editor or IDE.
 2. Use the command `git add <file_name>` to stage the changes for commit.
+3. Use the command `git commit -m "Your commit message"` to commit the changes with a descriptive message.
