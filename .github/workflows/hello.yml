@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: say Hello
-        runs: echo "Hello ${{ vars.STUDENT_NAME }}"
+        runs: echo "Hello, Zecky"
 
 
 
