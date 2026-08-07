@@ -316,5 +316,6 @@
 
   updateDisplay();
 })();
+// i have added some notes to make day cycle commit and PR, this's one of them 
 
 ("Tommorrow i will release my github Readme file and everybody will see it.!")
