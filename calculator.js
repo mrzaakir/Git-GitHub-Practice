@@ -316,3 +316,4 @@
 
   updateDisplay();
 })();
+// i have added some notes to make day cycle commit and PR, this's one of them 
