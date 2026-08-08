@@ -17,6 +17,10 @@
         --accent-2: #818cf8;
         --danger: #f87171;
         --shadow: 0 20px 50px rgba(0,0,0,0.35);
+        color-scheme: dark;
+        --bg: #1a91db;
+        --panel: #cb4d7ba5;
+        --panel-2: #44ca87;
       }
 
       * { box-sizing: border-box; }
