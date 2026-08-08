@@ -187,13 +187,6 @@ public class Java100 {
     System.out.println("Extra line 78");
     System.out.println("Added line 79");
     System.out.println("Added line 80");
-    System.out.println("Added line 81");
-    System.out.println("Inserted line 82");
-    System.out.println("Inserted line 83");
-    System.out.println("Inserted line 84");
-    System.out.println("Inserted line 85");
-    System.out.println("Inserted line 86");
-    System.out.println("Added line 82");
-    System.out.println("Added line 83");
+// halkan waxan ka saray lines
 }
 
