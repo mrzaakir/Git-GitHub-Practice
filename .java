@@ -177,7 +177,6 @@ public class Java100 {
     System.out.println("Extra line 68");
     System.out.println("Extra line 69");
     System.out.println("Extra line 70");
- 
 
 }
 
