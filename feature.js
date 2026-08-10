@@ -28,6 +28,3 @@ export function feature15(){ console.log('Feature'); }
 export function feature15(){ console.log('Feature'); }
 export function feature15(){ console.log('Feature'); }
 export function feature15(){ console.log('Feature'); }
-export function feature15(){ console.log('Feature'); }
-export function feature15(){ console.log('Feature'); }
-export function feature15(){ console.log('Feature'); }
