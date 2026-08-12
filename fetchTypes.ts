@@ -4,6 +4,4 @@ export interface Feature2Props { id: number; name: string; }
 export interface Feature2Props { id: number; name: string; }
 export interface Feature2Props { id: number; name: string; }
 export interface Feature2Props { id: number; name: string; }
-export interface Feature2Props { id: number; name: string; }
-export interface Feature2Props { id: number; name: string; }
-export interface Feature2Props { id: number; name: string; }
+
