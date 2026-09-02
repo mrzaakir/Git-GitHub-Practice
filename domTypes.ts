@@ -19,5 +19,3 @@ export interface Feature10Props { id: number; name: string; }
 export interface Feature10Props { id: number; name: string; }
 export interface Feature10Props { id: number; name: string; }
 export interface Feature10Props { id: number; name: string; }
-
-
